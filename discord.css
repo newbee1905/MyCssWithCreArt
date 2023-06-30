@@ -407,6 +407,7 @@
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ General                  ║ Here you can make general adjustments.                                                  ║ */
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700;1,900&display=swap');
 
 :root {
   /* Info */
@@ -416,6 +417,10 @@
   /* Wallpaper */
   --SKIN-wallpaper: url("https://raw.githubusercontent.com/newbee1905/MyCssWithCreArt/main/ina-min.avif");
   --SKIN-wallpaper-opacity: 1.0;
+
+  /* Font */
+  --SKIN-primary-font: "Merriweather";
+  --SKIN-display-font: "Merriweather";
 }
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
