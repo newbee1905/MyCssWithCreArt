@@ -407,7 +407,7 @@
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ General                  ║ Here you can make general adjustments.                                                  ║ */
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 :root {
   /* Info */
@@ -419,8 +419,8 @@
   --SKIN-wallpaper-opacity: 1.0;
 
   /* Font */
-  --SKIN-primary-font: "Merriweather";
-  --SKIN-display-font: "Merriweather";
+  --SKIN-primary-font: "Ysabeau Infant";
+  --SKIN-display-font: "Ysabeau Infant";
 }
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
